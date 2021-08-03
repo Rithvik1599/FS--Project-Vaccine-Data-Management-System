@@ -1,0 +1,20 @@
+|560041|Jayanagar General|Karnataka|BBMP|50||||||||||||||||
+MY101|570019|Narayana|Karnataka|Mysore|50||||||||||||||||||
+TR102|572214|Theerthapura PHC|Karnataka|Tumkur|20||||||||||
+DH103|580028|Ingalagi|Karnataka|Dharwad|22|||||||||||||||||
+HA104|573135|Shravanabelagola Hospital|Karnataka|Hassan|10|
+RI105|492099|AIIMS|Chattisgarh|Raipur|15|||||||||||||||||||
+KR106|581301|Karwar Hospital|Karnataka|Karwar|23|||||||||||
+BL107|583131|Harapanahalli GH|Karnataka|Bellary|25|||||||||
+BA108|560076|Apollo|Karnataka|BBMP|30||||||||||||||||||||||
+BI109|585443|Mudhol PHC|Karnataka|Bidar|21|||||||||||||||||
+GL110|585325|Malkhed PHC|Karnataka|Gulburga|20|||||||||||||
+BA111|560074|Kumbalagodu PHC|Karnataka|Bangalore|26||||||||
+UD112|576104|Manipal UPHC|Karnataka|Udupi|50|||||||||||||||
+BG113|587124|Aihole|Karnataka|Bagalkot|44||||||||||||||||||
+KP114|583227|Anegundi PHC CVC|Karnataka|Koppal|45||||||||||
+DV115|577224|Nyamati|Karnataka|Davangere|40||||||||||||||||
+CK116|577123|Jayapura|Karnataka|Chikkamagalur|50|||||||||||
+MY117|570023|Apollo BGS|Karnataka|Mysore|50||||||||||||||||
+BA118|560076|Fortis|Karanataka|Bangalore|50||||||||||||||||
+KO119|563114|Bangarapete TH|Karnataka|Kolar|40|||||||||||||
